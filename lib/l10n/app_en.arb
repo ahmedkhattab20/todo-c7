@@ -1,0 +1,16 @@
+{
+
+"setting":"Setting",
+"language":"Language",
+"theming":"Theming",
+"english":"English",
+"arabic":"Arabic",
+"dark":"Dark",
+"light":"Light",
+"submit":"Submit",
+"title":"Title",
+"addTask":"Add Task",
+"description":"Description",
+
+"selectDate":"Select Date"
+}
